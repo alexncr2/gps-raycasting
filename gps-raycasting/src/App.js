@@ -6,14 +6,14 @@ import {
   Redirect
 } from "react-router-dom";
 
-import Raycasting from "./components/RayCasting";
+import RayCasting from "./components/RayCasting";
 
 function App() {
   return (
     <Router>
       <Switch>
         <Route path="/" exact={true}>
-          <Raycasting />
+          <RayCasting />
         </Route>
         <Redirect path="*" to="/" />
       </Switch>
