@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/io/gps-raycasting/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/io/gps-raycasting/static/js/main.ccfd6a90.chunk.js",
-    "main.js.map": "/io/gps-raycasting/static/js/main.ccfd6a90.chunk.js.map",
-    "runtime-main.js": "/io/gps-raycasting/static/js/runtime-main.e72cd9ad.js",
-    "runtime-main.js.map": "/io/gps-raycasting/static/js/runtime-main.e72cd9ad.js.map",
-    "static/js/2.b4f28124.chunk.js": "/io/gps-raycasting/static/js/2.b4f28124.chunk.js",
-    "static/js/2.b4f28124.chunk.js.map": "/io/gps-raycasting/static/js/2.b4f28124.chunk.js.map",
-    "index.html": "/io/gps-raycasting/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/io/gps-raycasting/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.b4f28124.chunk.js.LICENSE.txt": "/io/gps-raycasting/static/js/2.b4f28124.chunk.js.LICENSE.txt"
+    "main.css": "/gps-raycasting/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/gps-raycasting/static/js/main.ccfd6a90.chunk.js",
+    "main.js.map": "/gps-raycasting/static/js/main.ccfd6a90.chunk.js.map",
+    "runtime-main.js": "/gps-raycasting/static/js/runtime-main.89b23a22.js",
+    "runtime-main.js.map": "/gps-raycasting/static/js/runtime-main.89b23a22.js.map",
+    "static/js/2.b4f28124.chunk.js": "/gps-raycasting/static/js/2.b4f28124.chunk.js",
+    "static/js/2.b4f28124.chunk.js.map": "/gps-raycasting/static/js/2.b4f28124.chunk.js.map",
+    "index.html": "/gps-raycasting/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/gps-raycasting/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b4f28124.chunk.js.LICENSE.txt": "/gps-raycasting/static/js/2.b4f28124.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e72cd9ad.js",
+    "static/js/runtime-main.89b23a22.js",
     "static/js/2.b4f28124.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.ccfd6a90.chunk.js"
