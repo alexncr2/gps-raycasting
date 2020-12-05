@@ -2,20 +2,19 @@ import React from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Redirect
+  Route
 } from "react-router-dom";
 
 import RayCasting from "./components/RayCasting";
 
 function App() {
+  document.title = "RayCasting";
   return (
     <Router>
       <Switch>
-        <Route path="/" exact={true}>
+        <Route path="/gps-raycasting" exact={true}>
           <RayCasting />
         </Route>
-        <Redirect path="*" to="/" />
       </Switch>
     </Router>
   );
