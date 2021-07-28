@@ -1,6 +1,6 @@
 ## gps-raycasting
 
-This objective of this project is to explore Ray Casting. Ray Casting is a technique in computer graphics where light rays are cast from an origin point to a surface.
+The objective of this project is to explore Ray Casting. Ray Casting is a technique in computer graphics where light rays are cast from an origin point to a surface.
 
 ### About Raycasting
 
